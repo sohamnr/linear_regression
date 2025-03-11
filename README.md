@@ -1,1 +1,1 @@
-# linear_regression
+This repo contains basic linear regression programs.
